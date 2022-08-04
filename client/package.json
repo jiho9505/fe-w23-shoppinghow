@@ -44,6 +44,8 @@
   },
   "dependencies": {
     "core-js": "^3.17.2",
-    "rxjs": "^7.5.1"
-  }
+    "rxjs": "^7.5.1",
+    "webpack-merge": "^5.8.0"
+  },
+  "packageManager": "yarn@3.2.2"
 }
